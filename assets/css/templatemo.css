@@ -52,12 +52,12 @@ body, ul, li, p, a, label, input, div {
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #BD2A2E !important;}
 .text-muted { color: #BD2A2E !important;}
-.text-success { color: #bcbcbc!important;}
+.text-success { color: #5475c0!important;}
 .text-light { color: #bcbcbc !important;}
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
 .bg-black { background-color: #1d242d !important;}
-.bg-success { background-color: #1c4466 !important;}
+.bg-success { background-color: #62809b !important;}
 .btn-success {
   background-color:#BD2A2E;
   border-color: #75bcc5 !important;
@@ -71,7 +71,7 @@ body, ul, li, p, a, label, input, div {
 #templatemo_nav_top { min-height: 40px;}
 #templatemo_nav_top * { font-size: .9em !important;}
 #templatemo_main_nav a { color: #212934;}
-#templatemo_main_nav a:hover { color: #dcdde1;}
+#templatemo_main_nav a:hover { color: #abb3d4;}
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 
 /* Hero Carousel */
@@ -132,13 +132,13 @@ body, ul, li, p, a, label, input, div {
 /* Services */
 .services-icon-wap {transition: .3s;}
 .services-icon-wap:hover, .services-icon-wap:hover i {color: #fff;}
-.services-icon-wap:hover {background: #a5a5a5;}
+.services-icon-wap:hover {background: #4858b4;}
 /* Contact map */
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
 .form-control { border: 1px solid #e8e8e8;}
 /* Footer */
 #tempaltemo_footer a { color: #dcdde1;}
-#tempaltemo_footer a:hover { color: #375ea8;}
+#tempaltemo_footer a:hover { color: #9ab5e7;}
 #tempaltemo_footer ul.footer-link-list li { padding-top: 10px;}
 #tempaltemo_footer ul.footer-icons li {
   width: 2.6em;
